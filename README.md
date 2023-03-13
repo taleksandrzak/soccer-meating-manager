@@ -1,1 +1,5 @@
 # soccer-meating-manager
+This App is for managing the results of soccer meeting. On every meeting 15 players are playing soccer. There are three teams (3 x 5 persons). After every meeting players collects points depending on the results. The app helps to collects data about this.
+The first step is add the date of the meeting. Next we add players (from dropdown list) to three teams (A, B, C). Next we add results of 15 matches. Based on the results the app prepare a table with results. The players from 1st team obtain 3 points but if this team win all matches ( 10 ) then the players obtain 4 points. The players from 2nd  team obtain 2 points and the players from 3rd  team obtain 1 points but if this team lose all matches ( 10 ) then the players obtain 0 points. 
+The app prepare three tables: total points for current month, total points for season (6 month: January – June, July - December), and average points for season (number of points / numbers of meeting). 
+The app is available only for registered users. The is a two type of user: admin and normal. Only admin can change data and add results. Normal users can only see the tables. 
